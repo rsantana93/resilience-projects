@@ -1,0 +1,8 @@
+/target/
+/.metadata/
+*.prefs
+*.component
+fallback-example/.settings/org.eclipse.wst.common.project.facet.core.xml
+fallback-example/.classpath
+fallback-example/.factorypath
+fallback-example/.project

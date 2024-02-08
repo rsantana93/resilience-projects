@@ -1,0 +1,11 @@
+/.metadata/
+*.prefs
+*.component
+fallback-example/.settings/org.eclipse.wst.common.project.facet.core.xml
+fallback-example/.classpath
+fallback-example/.factorypath
+fallback-example/.project
+retry-example/.classpath
+RemoteSystemsTempFiles/.project
+retry-example/.project
+retry-example/.factorypath
