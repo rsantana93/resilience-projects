@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Built-By: Ricardo
-Build-Jdk: 17.0.10
-Implementation-Title: Retry-example
-Implementation-Version: 1.0-SNAPSHOT
-Implementation-Vendor-Id: com.howtodoinjava.demo
-Implementation-URL: https://spring.io/projects/spring-boot/Retry-example
-Created-By: Maven Integration for Eclipse
-
